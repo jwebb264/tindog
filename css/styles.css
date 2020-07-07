@@ -17,7 +17,7 @@ p {
 }
 /* Sections */
 .colored-section {
-  background-color: #ff4c68;
+  background-color: #42ddf5;
   color: #fff;
 }
 .white-section {
@@ -80,7 +80,7 @@ p {
   text-align: center;
 }
 .feature-icon {
-  color: #ff4c68;
+  color: #42ddf5;
   margin-bottom: 1rem;
 }
 .feature-icon:hover {
@@ -104,7 +104,7 @@ p {
 
 /* Press Section */
 #press {
-  background-color: #ff4c68;
+  background-color: #42ddf5;
   padding-bottom: 3%;
 }
 .press-logo {
